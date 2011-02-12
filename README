@@ -1,0 +1,13 @@
+viewport is a small jquery plugin writen by @waxzce with the Andy Langton script found here : 
+http://andylangton.co.uk/articles/javascript/get-viewport-size-javascript/
+
+It's usefull when you have to know dimension of the usable browser window
+build to answer this : how to get width and heigth of the navigator ?
+
+use as yout want
+
+how to :
+
+$().getViewport().width
+$().getViewport().height
+
